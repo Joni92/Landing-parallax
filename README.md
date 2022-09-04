@@ -1,4 +1,5 @@
 # Landing-parallax
-Landing page con sección anclada parallax, usando ScrollMagic.
+💻 - Landing page con sección anclada parallax, usando ScrollMagic.
+❌ no adaptado a mobile 📵.
 
-https://joni92.github.io/Landing-parallax/
+✅ Link preview: https://joni92.github.io/Landing-parallax/
