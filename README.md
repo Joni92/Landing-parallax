@@ -4,4 +4,4 @@
 
 ✅ Link preview: https://joni92.github.io/Landing-parallax/
 
-[![capturalandingparallax.jpg](https://i.postimg.cc/76xr4xZP/capturalandingparallax.jpg)](https://postimg.cc/v1SNLwnC)
+[![descarga-1.jpg](https://i.postimg.cc/Hk2ftqtf/descarga-1.jpg)](https://postimg.cc/XrrHjDm8)
