@@ -5,4 +5,4 @@
 ✅ Link preview: https://joni92.github.io/Landing-parallax/
 
 
-[![descarga-1.jpg](https://i.postimg.cc/Hk2ftqtf/descarga-1.jpg)](https://postimg.cc/XrrHjDm8)
+[![preview.png](https://i.postimg.cc/Dzrmnz6D/preview.png)](https://postimg.cc/sB23Jst9)
