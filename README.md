@@ -3,7 +3,7 @@
 
 ❌ no mobile view 📵.
 
-✅ Link preview: https://joni92.github.io/Landing-parallax/
+✅ Link GitHub Pages -> preview: https://joni92.github.io/Landing-parallax/
 
 
 [![preview0.png](https://i.postimg.cc/MGqq0m0P/preview0.png)](https://postimg.cc/zyts8WcK)
