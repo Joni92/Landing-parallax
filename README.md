@@ -1,6 +1,7 @@
 # Landing-parallax
-💻 - Landing page con sección anclada parallax, usando ScrollMagic.
-❌ no adaptado a mobile 📵.
+💻 - Landing page with static left section , parallax effect applying ScrollMagic.
+
+❌ no mobile view 📵.
 
 ✅ Link preview: https://joni92.github.io/Landing-parallax/
 
