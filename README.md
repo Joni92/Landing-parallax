@@ -1,4 +1,4 @@
-# Landing-parallax
+# Landing w/ parallax effect
 💻 - Landing page with static left section , parallax effect applying ScrollMagic.
 
 ❌ no mobile view 📵.
